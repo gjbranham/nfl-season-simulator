@@ -1,0 +1,644 @@
+[
+  {
+    "season_id": 1,
+    "teams": [
+      {
+        "id": 1,
+        "name": "Arizona Cardinals",
+        "record": "7-10",
+        "strength": -0.253300615804046
+      },
+      {
+        "id": 2,
+        "name": "Los Angeles Rams",
+        "record": "12-5",
+        "strength": 0.3202766485752866
+      },
+      {
+        "id": 3,
+        "name": "San Francisco 49ers",
+        "record": "5-12",
+        "strength": -0.9376440937248444
+      },
+      {
+        "id": 4,
+        "name": "Seattle Seahawks",
+        "record": "10-7",
+        "strength": 0.5798010610512127
+      },
+      {
+        "id": 5,
+        "name": "Chicago Bears",
+        "record": "11-6",
+        "strength": 0.22289946910370106
+      },
+      {
+        "id": 6,
+        "name": "Detroit Lions",
+        "record": "8-9",
+        "strength": 0.6281218582075664
+      },
+      {
+        "id": 7,
+        "name": "Green Bay Packers",
+        "record": "2-15",
+        "strength": -1.4541559057134057
+      },
+      {
+        "id": 8,
+        "name": "Minnesota Vikings",
+        "record": "7-10",
+        "strength": -0.044782353009248495
+      },
+      {
+        "id": 9,
+        "name": "Atlanta Falcons",
+        "record": "13-4",
+        "strength": 1.6470092941489771
+      },
+      {
+        "id": 10,
+        "name": "Carolina Panthers",
+        "record": "13-4",
+        "strength": 0.9633267708326202
+      },
+      {
+        "id": 11,
+        "name": "New Orleans Saints",
+        "record": "6-11",
+        "strength": -0.9625826948911098
+      },
+      {
+        "id": 12,
+        "name": "Tampa Bay Buccaneers",
+        "record": "9-8",
+        "strength": 0.21913072847969672
+      },
+      {
+        "id": 13,
+        "name": "Dallas Cowboys",
+        "record": "13-4",
+        "strength": 0.4677270731502512
+      },
+      {
+        "id": 14,
+        "name": "New York Giants",
+        "record": "11-6",
+        "strength": 0.9262696702143527
+      },
+      {
+        "id": 15,
+        "name": "Philadelphia Eagles",
+        "record": "6-11",
+        "strength": 0.008562572211238703
+      },
+      {
+        "id": 16,
+        "name": "Washington Commanders",
+        "record": "5-12",
+        "strength": -1.8318601594357147
+      },
+      {
+        "id": 17,
+        "name": "Denver Broncos",
+        "record": "9-8",
+        "strength": -0.2427953144631239
+      },
+      {
+        "id": 18,
+        "name": "Kansas City Chiefs",
+        "record": "6-11",
+        "strength": -0.7112559095476803
+      },
+      {
+        "id": 19,
+        "name": "Las Vegas Raiders",
+        "record": "11-6",
+        "strength": 1.0720527975136043
+      },
+      {
+        "id": 20,
+        "name": "Los Angeles Chargers",
+        "record": "7-10",
+        "strength": -1.4304631863198327
+      },
+      {
+        "id": 21,
+        "name": "Baltimore Ravens",
+        "record": "4-13",
+        "strength": -0.650760819994514
+      },
+      {
+        "id": 22,
+        "name": "Cleveland Browns",
+        "record": "6-11",
+        "strength": 1.1420190591459678
+      },
+      {
+        "id": 23,
+        "name": "Pittsburgh Steelers",
+        "record": "12-5",
+        "strength": 0.9813275628138218
+      },
+      {
+        "id": 24,
+        "name": "Cincinnati Bengals",
+        "record": "11-6",
+        "strength": 0.9464027887322636
+      },
+      {
+        "id": 25,
+        "name": "Houston Texans",
+        "record": "8-9",
+        "strength": 0.4655657374189044
+      },
+      {
+        "id": 26,
+        "name": "Indianapolis Colts",
+        "record": "6-11",
+        "strength": -0.7795100348042059
+      },
+      {
+        "id": 27,
+        "name": "Jacksonville Jaguars",
+        "record": "10-7",
+        "strength": 0.4921114012499995
+      },
+      {
+        "id": 28,
+        "name": "Tennessee Titans",
+        "record": "5-12",
+        "strength": 0.2054541388698776
+      },
+      {
+        "id": 29,
+        "name": "Buffalo Bills",
+        "record": "10-7",
+        "strength": 0.31829001558151493
+      },
+      {
+        "id": 30,
+        "name": "Miami Dolphins",
+        "record": "11-6",
+        "strength": 0.5262031106873098
+      },
+      {
+        "id": 31,
+        "name": "New England Patriots",
+        "record": "3-12",
+        "strength": -0.8361980357162828
+      },
+      {
+        "id": 32,
+        "name": "New York Jets",
+        "record": "14-3",
+        "strength": 0.8001901282363117
+      }
+    ],
+    "champion_id": 14,
+    "champion_name": "New York Giants",
+    "champion_record": "11-6",
+    "champion_strength": 0.9262696702143527,
+    "playoff_bracket": {
+      "nfc": {
+        "bye": "Atlanta Falcons",
+        "wildcard": [
+          {
+            "home": "Carolina Panthers",
+            "home_seed": 2,
+            "away": "Seattle Seahawks",
+            "away_seed": 7,
+            "winner": "Carolina Panthers",
+            "winner_seed": 2
+          },
+          {
+            "home": "Dallas Cowboys",
+            "home_seed": 3,
+            "away": "Chicago Bears",
+            "away_seed": 6,
+            "winner": "Dallas Cowboys",
+            "winner_seed": 3
+          },
+          {
+            "home": "Los Angeles Rams",
+            "home_seed": 4,
+            "away": "New York Giants",
+            "away_seed": 5,
+            "winner": "New York Giants",
+            "winner_seed": 5
+          }
+        ],
+        "divisional": [
+          {
+            "home": "Atlanta Falcons",
+            "home_seed": 1,
+            "away": "New York Giants",
+            "away_seed": 5,
+            "winner": "New York Giants",
+            "winner_seed": 5
+          },
+          {
+            "home": "Carolina Panthers",
+            "home_seed": 2,
+            "away": "Dallas Cowboys",
+            "away_seed": 3,
+            "winner": "Dallas Cowboys",
+            "winner_seed": 3
+          }
+        ],
+        "conference": {
+          "home": "Dallas Cowboys",
+          "home_seed": 3,
+          "away": "New York Giants",
+          "away_seed": 5,
+          "winner": "New York Giants",
+          "winner_seed": 5
+        }
+      },
+      "afc": {
+        "bye": "New York Jets",
+        "wildcard": [
+          {
+            "home": "Pittsburgh Steelers",
+            "home_seed": 2,
+            "away": "Buffalo Bills",
+            "away_seed": 7,
+            "winner": "Pittsburgh Steelers",
+            "winner_seed": 2
+          },
+          {
+            "home": "Las Vegas Raiders",
+            "home_seed": 3,
+            "away": "Jacksonville Jaguars",
+            "away_seed": 6,
+            "winner": "Jacksonville Jaguars",
+            "winner_seed": 6
+          },
+          {
+            "home": "Cincinnati Bengals",
+            "home_seed": 4,
+            "away": "Miami Dolphins",
+            "away_seed": 5,
+            "winner": "Cincinnati Bengals",
+            "winner_seed": 4
+          }
+        ],
+        "divisional": [
+          {
+            "home": "New York Jets",
+            "home_seed": 1,
+            "away": "Jacksonville Jaguars",
+            "away_seed": 6,
+            "winner": "New York Jets",
+            "winner_seed": 1
+          },
+          {
+            "home": "Pittsburgh Steelers",
+            "home_seed": 2,
+            "away": "Cincinnati Bengals",
+            "away_seed": 4,
+            "winner": "Cincinnati Bengals",
+            "winner_seed": 4
+          }
+        ],
+        "conference": {
+          "home": "New York Jets",
+          "home_seed": 1,
+          "away": "Cincinnati Bengals",
+          "away_seed": 4,
+          "winner": "New York Jets",
+          "winner_seed": 1
+        }
+      },
+      "superbowl": {
+        "home": "New York Giants",
+        "home_seed": 5,
+        "away": "New York Jets",
+        "away_seed": 1,
+        "winner": "New York Giants",
+        "winner_seed": 5
+      }
+    }
+  },
+  {
+    "season_id": 2,
+    "teams": [
+      {
+        "id": 1,
+        "name": "Arizona Cardinals",
+        "record": "6-11",
+        "strength": -0.7340069769056835
+      },
+      {
+        "id": 2,
+        "name": "Los Angeles Rams",
+        "record": "11-6",
+        "strength": 0.6741653551550731
+      },
+      {
+        "id": 3,
+        "name": "San Francisco 49ers",
+        "record": "7-10",
+        "strength": -1.5874687093463955
+      },
+      {
+        "id": 4,
+        "name": "Seattle Seahawks",
+        "record": "6-11",
+        "strength": -0.8404303619325637
+      },
+      {
+        "id": 5,
+        "name": "Chicago Bears",
+        "record": "9-8",
+        "strength": -0.10872705125742786
+      },
+      {
+        "id": 6,
+        "name": "Detroit Lions",
+        "record": "6-11",
+        "strength": 0.21499528228338746
+      },
+      {
+        "id": 7,
+        "name": "Green Bay Packers",
+        "record": "14-3",
+        "strength": 0.3253678901232593
+      },
+      {
+        "id": 8,
+        "name": "Minnesota Vikings",
+        "record": "3-14",
+        "strength": -2.3970051639300745
+      },
+      {
+        "id": 9,
+        "name": "Atlanta Falcons",
+        "record": "8-9",
+        "strength": -1.134813616768964
+      },
+      {
+        "id": 10,
+        "name": "Carolina Panthers",
+        "record": "14-3",
+        "strength": 0.2683322653468734
+      },
+      {
+        "id": 11,
+        "name": "New Orleans Saints",
+        "record": "10-7",
+        "strength": -0.918819793391082
+      },
+      {
+        "id": 12,
+        "name": "Tampa Bay Buccaneers",
+        "record": "7-10",
+        "strength": -0.1548049670619739
+      },
+      {
+        "id": 13,
+        "name": "Dallas Cowboys",
+        "record": "11-6",
+        "strength": 0.22334250844729306
+      },
+      {
+        "id": 14,
+        "name": "New York Giants",
+        "record": "6-11",
+        "strength": -0.4818853356815469
+      },
+      {
+        "id": 15,
+        "name": "Philadelphia Eagles",
+        "record": "3-14",
+        "strength": -1.1867137799744865
+      },
+      {
+        "id": 16,
+        "name": "Washington Commanders",
+        "record": "9-8",
+        "strength": 0.2589929842764576
+      },
+      {
+        "id": 17,
+        "name": "Denver Broncos",
+        "record": "3-14",
+        "strength": -1.6913173347094568
+      },
+      {
+        "id": 18,
+        "name": "Kansas City Chiefs",
+        "record": "10-7",
+        "strength": 0.33949623329370565
+      },
+      {
+        "id": 19,
+        "name": "Las Vegas Raiders",
+        "record": "9-8",
+        "strength": -0.5470591395797885
+      },
+      {
+        "id": 20,
+        "name": "Los Angeles Chargers",
+        "record": "9-8",
+        "strength": -0.3963158995169837
+      },
+      {
+        "id": 21,
+        "name": "Baltimore Ravens",
+        "record": "12-5",
+        "strength": 0.29051157983493187
+      },
+      {
+        "id": 22,
+        "name": "Cleveland Browns",
+        "record": "4-13",
+        "strength": -1.4394419204307256
+      },
+      {
+        "id": 23,
+        "name": "Pittsburgh Steelers",
+        "record": "9-8",
+        "strength": 0.14394395402331858
+      },
+      {
+        "id": 24,
+        "name": "Cincinnati Bengals",
+        "record": "2-15",
+        "strength": -2.791207187989579
+      },
+      {
+        "id": 25,
+        "name": "Houston Texans",
+        "record": "12-5",
+        "strength": 0.7444598940208326
+      },
+      {
+        "id": 26,
+        "name": "Indianapolis Colts",
+        "record": "9-8",
+        "strength": -0.24622610960381588
+      },
+      {
+        "id": 27,
+        "name": "Jacksonville Jaguars",
+        "record": "13-4",
+        "strength": 1.864745670340046
+      },
+      {
+        "id": 28,
+        "name": "Tennessee Titans",
+        "record": "10-7",
+        "strength": -0.4277680870452018
+      },
+      {
+        "id": 29,
+        "name": "Buffalo Bills",
+        "record": "8-9",
+        "strength": -0.3056681173079563
+      },
+      {
+        "id": 30,
+        "name": "Miami Dolphins",
+        "record": "5-9",
+        "strength": -0.590435916858241
+      },
+      {
+        "id": 31,
+        "name": "New England Patriots",
+        "record": "9-3",
+        "strength": 0.03767648873725424
+      },
+      {
+        "id": 32,
+        "name": "New York Jets",
+        "record": "14-3",
+        "strength": 1.0389066766842083
+      }
+    ],
+    "champion_id": 32,
+    "champion_name": "New York Jets",
+    "champion_record": "14-3",
+    "champion_strength": 1.0389066766842083,
+    "playoff_bracket": {
+      "nfc": {
+        "bye": "Green Bay Packers",
+        "wildcard": [
+          {
+            "home": "Carolina Panthers",
+            "home_seed": 2,
+            "away": "Chicago Bears",
+            "away_seed": 7,
+            "winner": "Carolina Panthers",
+            "winner_seed": 2
+          },
+          {
+            "home": "Los Angeles Rams",
+            "home_seed": 3,
+            "away": "Washington Commanders",
+            "away_seed": 6,
+            "winner": "Los Angeles Rams",
+            "winner_seed": 3
+          },
+          {
+            "home": "Dallas Cowboys",
+            "home_seed": 4,
+            "away": "New Orleans Saints",
+            "away_seed": 5,
+            "winner": "Dallas Cowboys",
+            "winner_seed": 4
+          }
+        ],
+        "divisional": [
+          {
+            "home": "Green Bay Packers",
+            "home_seed": 1,
+            "away": "Dallas Cowboys",
+            "away_seed": 4,
+            "winner": "Green Bay Packers",
+            "winner_seed": 1
+          },
+          {
+            "home": "Carolina Panthers",
+            "home_seed": 2,
+            "away": "Los Angeles Rams",
+            "away_seed": 3,
+            "winner": "Los Angeles Rams",
+            "winner_seed": 3
+          }
+        ],
+        "conference": {
+          "home": "Green Bay Packers",
+          "home_seed": 1,
+          "away": "Los Angeles Rams",
+          "away_seed": 3,
+          "winner": "Los Angeles Rams",
+          "winner_seed": 3
+        }
+      },
+      "afc": {
+        "bye": "New York Jets",
+        "wildcard": [
+          {
+            "home": "Jacksonville Jaguars",
+            "home_seed": 2,
+            "away": "Pittsburgh Steelers",
+            "away_seed": 7,
+            "winner": "Jacksonville Jaguars",
+            "winner_seed": 2
+          },
+          {
+            "home": "Houston Texans",
+            "home_seed": 3,
+            "away": "Tennessee Titans",
+            "away_seed": 6,
+            "winner": "Houston Texans",
+            "winner_seed": 3
+          },
+          {
+            "home": "Baltimore Ravens",
+            "home_seed": 4,
+            "away": "Kansas City Chiefs",
+            "away_seed": 5,
+            "winner": "Kansas City Chiefs",
+            "winner_seed": 5
+          }
+        ],
+        "divisional": [
+          {
+            "home": "New York Jets",
+            "home_seed": 1,
+            "away": "Kansas City Chiefs",
+            "away_seed": 5,
+            "winner": "New York Jets",
+            "winner_seed": 1
+          },
+          {
+            "home": "Jacksonville Jaguars",
+            "home_seed": 2,
+            "away": "Houston Texans",
+            "away_seed": 3,
+            "winner": "Jacksonville Jaguars",
+            "winner_seed": 2
+          }
+        ],
+        "conference": {
+          "home": "New York Jets",
+          "home_seed": 1,
+          "away": "Jacksonville Jaguars",
+          "away_seed": 2,
+          "winner": "New York Jets",
+          "winner_seed": 1
+        }
+      },
+      "superbowl": {
+        "home": "Los Angeles Rams",
+        "home_seed": 3,
+        "away": "New York Jets",
+        "away_seed": 1,
+        "winner": "New York Jets",
+        "winner_seed": 1
+      }
+    }
+  }
+]
